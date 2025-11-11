@@ -1,0 +1,29 @@
+# LookingUp.Online Requirements
+
+# Core
+streamlit==1.29.0
+python-dotenv==1.0.0
+
+# Database & Auth
+supabase==1.0.3
+bcrypt==4.1.2
+pyjwt==2.8.0
+
+# Email Verification
+dnspython==2.4.2
+
+# Data Processing
+pandas==2.0.3
+plotly==5.18.0
+
+# API
+fastapi==0.108.0
+uvicorn[standard]==0.25.0
+pydantic[email]==2.5.3
+requests==2.31.0
+
+# Payments
+# Dodo Payments (uses requests)
+
+# Utilities
+python-multipart==0.0.6
